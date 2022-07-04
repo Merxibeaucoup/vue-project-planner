@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make Marketing email to whom????",
+      "details": "Lorem ipsumyfvnlnln",
+      "complete": true
+    },
+    {
+      "title": "Apply to jobs",
+      "details": "relentless mindset buddy weft",
+      "complete": false,
+      "id": 3
+    }
+  ]
+}
